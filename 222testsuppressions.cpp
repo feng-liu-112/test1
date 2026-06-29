@@ -25,6 +25,7 @@ sdf
  */
 
 #include "config.h"
+#include "config.h"
 #include "cppcheck.h"
 #include "settings.h"
 #include "suppressions.h"
